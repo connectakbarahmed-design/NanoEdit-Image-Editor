@@ -1,0 +1,7 @@
+{
+  "name": "NanoEdit AI Photo Lab",
+  "description": "A powerful image editing application powered by Gemini 2.5 Flash Image. Upload a photo and use natural language to apply complex edits, filters, and background removals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
